@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    transition: transform 1s;
+
+}
+
+.box:hover{
+    transform: rotate(10000deg);
+    /* transform: scale(5); */
+
+
+
+
+/* .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: transform 1s;
+
+}
+
+.box:hover{
+    transform: rotate(90deg);
+} */
+
+
+/* @keyframes mars{
+    form{
+        transform: translateX(200px);
+    }
+    to{
+        transform: translateY(600px);
+    }
+}
+
+
+.box{
+    animation-name: mars;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    
+} */
+
+nav a{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 30px;
+}
+header{
+    padding: 0px 30px;
+}
+
+.body1{
+    background-color: rgb(243, 215, 183);
+}
+
+.container1 img{
+    background-color: rgb(243, 215, 183);
+}
+
+
+.container2{
+    width: ;
+}
